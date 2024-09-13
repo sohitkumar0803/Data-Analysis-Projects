@@ -124,7 +124,7 @@ Developed an interactive PowerBI dashboard to analyze and visualize sales insigh
 - Enhanced user engagement with interactive features and real-time data visualization.
 
 
-### Project 7:Python ECommerce Sales Exploratory Data Analysis
+### Project 7: Python ECommerce Sales Exploratory Data Analysis
 
 **Description:**
 - Conducted an exploratory data analysis on e-commerce sales data using Python.
