@@ -11,7 +11,7 @@ Welcome to the Data Analysis Projects repository! This repository showcases a co
 4. [Project 4: T20 World Cup 2022 Best 11 Analysis](#project-4-t20-world-cup-2022-best-11-analysis)
 5. [Project 5: Tableau Sales Dashboard](#project-5-tableau-sales-dashboard)
 6. [Project 6: PowerBI Sales Insight Project](#project-6-powerbi-sales-insight-project)
-7. [Project 7: Python E-Commerce Sales Data Analysis](#project-7-python-e-commerce-sales-data-analysis)
+7. [Project 7: Python ECommerce Sales Exploratory Data Analysis](#project-7-python-ecommerce-sales-exploratory-data-analysis)
 
 ## Projects
 
@@ -124,7 +124,7 @@ Developed an interactive PowerBI dashboard to analyze and visualize sales insigh
 - Enhanced user engagement with interactive features and real-time data visualization.
 
 
-### Project 7: Python E-Commerce Sales Data Analysis
+### Project 7:Python ECommerce Sales Exploratory Data Analysis
 
 **Description:**
 - Conducted an exploratory data analysis on e-commerce sales data using Python.
