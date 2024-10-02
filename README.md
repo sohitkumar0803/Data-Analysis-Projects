@@ -17,6 +17,8 @@ Welcome to the Data Analysis Projects repository! This repository showcases a co
 
 ### Project 1: PowerBI E-Commerce Sales Dashboard
 
+[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNTQzYzEzY2MtMmJlMS00YWNjLWJhMzItYThiOWI5MmVlZDcxIiwidCI6Ijc2ZTVlYmRiLWExNzctNDExMS04YjA4LWU2ZThmMTAzM2M3NCJ9)
+
 **Description:**
 Developed a comprehensive E-Commerce Sales Dashboard using PowerBI to visualize key performance indicators (KPIs) and provide actionable insights for business decision-making. The dashboard includes:
 
@@ -36,6 +38,8 @@ Developed a comprehensive E-Commerce Sales Dashboard using PowerBI to visualize 
 
 ### Project 2: PowerBI Data Professional Survey Analysis
 
+[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiYTBhOWNjMzEtY2Q2Zi00ZTM0LTgwYjAtNjRmZWQzMWQ5MzZiIiwidCI6Ijc2ZTVlYmRiLWExNzctNDExMS04YjA4LWU2ZThmMTAzM2M3NCJ9)
+
 **Description:**
 Developed an insightful PowerBI dashboard to analyze survey responses from data professionals. Utilized advanced data visualization techniques to present key metrics and insights, including:
 
@@ -52,6 +56,8 @@ Developed an insightful PowerBI dashboard to analyze survey responses from data 
 
 ### Project 3: Tableau AirBnB Data Analysis Project
 
+[Dashboard Link](https://public.tableau.com/app/profile/sohit.mahato/viz/AirBnBFullProject_17272432801900/AirBnBDashboard)
+
 **Description:**
 Developed an interactive Tableau dashboard to analyze AirBnB listing data, providing valuable insights into pricing trends and listing distributions. The dashboard includes:
 
@@ -66,6 +72,8 @@ Developed an interactive Tableau dashboard to analyze AirBnB listing data, provi
 - Provided clear and interactive visualizations that facilitate easy interpretation of complex data.
 
 ### Project 4: T20 World Cup 2022 Best 11 Analysis
+
+[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiODY1NTY3MzktNjU5Mi00YjM3LWI5NDItZDYwZTAzMTVlNzJiIiwidCI6Ijc2ZTVlYmRiLWExNzctNDExMS04YjA4LWU2ZThmMTAzM2M3NCJ9)
 
 **Description:**
 Developed a comprehensive PowerBI dashboard to analyze and visualize the performance of the best 11 players in the T20 World Cup 2022. The dashboard includes:
@@ -85,6 +93,8 @@ Developed a comprehensive PowerBI dashboard to analyze and visualize the perform
 
 
 ### Project 5: Tableau Sales Dashboard
+
+[Dashboard Link](https://public.tableau.com/views/SalesDashboard_17272396594300/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Description:**
 Developed an interactive Tableau dashboard to analyze and visualize sales performance and customer engagement for the years 2021 and 2022. The dashboard includes:
@@ -106,6 +116,8 @@ Developed an interactive Tableau dashboard to analyze and visualize sales perfor
 
 ### Project 6: PowerBI Sales Insight Project
 
+[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNzI3MjllYjctOGVmNS00ZTNjLWIyMTAtYTA0MGJiYWQ2MTIxIiwidCI6Ijc2ZTVlYmRiLWExNzctNDExMS04YjA4LWU2ZThmMTAzM2M3NCJ9)
+
 **Description:**
 Developed an interactive PowerBI dashboard to analyze and visualize sales insights for a business. The dashboard includes:
 
@@ -125,6 +137,8 @@ Developed an interactive PowerBI dashboard to analyze and visualize sales insigh
 
 
 ### Project 7: Python ECommerce Sales Exploratory Data Analysis
+
+[Code Link](https://github.com/sohitkumar0803/Python-ECommerce-Sales-Exploratory-Data-Analysis/blob/main/EDA.ipynb)
 
 **Description:**
 - Conducted an exploratory data analysis on e-commerce sales data using Python.
@@ -146,7 +160,7 @@ Developed an interactive PowerBI dashboard to analyze and visualize sales insigh
 - Improved data quality and consistency.
 - Enabled data-driven strategies for marketing, sales, and inventory management.
 
-## How to Use
+## How to Use?
 
 1. **Clone the repository:**
    ```bash
